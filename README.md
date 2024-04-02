@@ -1,4 +1,4 @@
-### Refering
+### Referring
 https://ntoles.github.io/tristan-mp-pitp/
 
 ### Project Overview
